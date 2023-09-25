@@ -3,7 +3,10 @@
 The Social Network API is a robust and scalable backend application designed to simulate a simple social network. It provides a set of RESTful API endpoints allowing clients to perform CRUD operations on users, thoughts, friends, and reactions. The application is built with Node.js, Express.js, MongoDB, and Mongoose, ensuring optimal performance and security.
 
 
-Uploading Social network API Demo.mp4…
+
+https://github.com/Youngobz/Social-Network-API/assets/133522178/4df9ce42-2684-4eee-bdc5-66009646556f
+
+
 
 
 ## Table of Contents
@@ -93,7 +96,7 @@ The server will start, and the application will be accessible at `http://localho
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 
 
 ## License
 
